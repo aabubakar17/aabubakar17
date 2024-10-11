@@ -18,7 +18,7 @@
 
 <div style="display: flex; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=aabubakar17" alt="GitHub stats" width="400" height="200"/>
-  <img src="https://streak-stats.demolab.com/?user=aabubakar17" alt="GitHub Streak" width="400" height="200"/>
+  <img src="https://streak-stats.demolab.com/?user=aabubakar17" alt="GitHub Streak" width="440" height="200"/>
 </div>
 
 
