@@ -16,7 +16,11 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,nextjs,express,jest,bootstrap,tailwind,java,spring,py,c,postgresql,mongodb,firebase)](https://skillicons.dev)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aabubakar17)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=aabubakar17)](https://git.io/streak-stats)
+<div style="display: flex; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=aabubakar17" alt="GitHub stats" width="400" height="200"/>
+  <img src="https://streak-stats.demolab.com/?user=aabubakar17" alt="GitHub Streak" width="400" height="200"/>
+</div>
+
 
 
 
