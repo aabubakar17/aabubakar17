@@ -4,7 +4,22 @@
 - 🌱 I’m currently learning: Java EE and Spring Boot for backend development.
 - 👯 I’m looking to collaborate on Open-source projects related to web development and machine learning.
 - 🤔 I’m looking for help with: Exploring microservices architecture and CI/CD tooling.
-- 💬 Ask me about: Frontend development, React, and Firebase integration.
-- 📫 How to reach me: Linkedin [https://www.linkedin.com/in/abubakar-abubakar-46a9141a1/]
-⚡ Fun fact: I enjoy photography and have small collection of digital vintage cameras
+⚡ Fun fact: I enjoy photography and have a collection of digital vintage cameras
+
+### Connect with me:
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abubakar-abubakar-46a9141a1/)
+
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,nextjs,express,jest,bootstrap,tailwind,java,spring,py,c,postgresql,mongodb,firebase)](https://skillicons.dev)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aabubakar17)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=aabubakar17)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aabubakar17&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
+
+
+
+
+
+
+
 
