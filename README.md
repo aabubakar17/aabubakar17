@@ -8,7 +8,10 @@
 ⚡ Fun fact: I enjoy photography and have a collection of digital vintage cameras
 
 ### Connect with me:
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abubakar-abubakar-46a9141a1/) [![My Skills](https://skillicons.dev/icons?i=gmail)](abubakarabdihakim01@gmail.com) 
+
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abubakar-abubakar-46a9141a1/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abubakarabdihakim01@gmail.com)
+
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,nextjs,express,jest,bootstrap,tailwind,java,spring,py,c,postgresql,mongodb,firebase)](https://skillicons.dev)
