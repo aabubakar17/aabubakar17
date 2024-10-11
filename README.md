@@ -1,4 +1,5 @@
-## Hi, I'm Abubakar 👋
+# Hi, I'm Abubakar 👋 <span style="float:right;"> <img src="https://komarev.com/ghpvc/?username=aabubakar&label=Profile%20views&color=brightgreen"/> </span>
+
 
 - 🔭 I’m currently working on Developing scalable web applications with React and Node.js.
 - 🌱 I’m currently learning: Java EE and Spring Boot for backend development.
@@ -14,7 +15,6 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=aabubakar17)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=aabubakar17)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aabubakar17&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 
