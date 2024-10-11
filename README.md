@@ -1,11 +1,11 @@
 # Hi, I'm Abubakar 👋 <span style="float:right;"> <img src="https://komarev.com/ghpvc/?username=aabubakar&label=Profile%20views&color=brightgreen"/> </span>
 
 
-- 🔭 I’m currently working on Developing scalable web applications with React and Node.js.
+- 🔭 I’m currently working on: Developing scalable web applications with React and Node.js.
 - 🌱 I’m currently learning: Java EE and Spring Boot for backend development.
-- 👯 I’m looking to collaborate on Open-source projects related to web development and machine learning.
+- 👯 I’m looking to collaborate: on Open-source projects related to web development and machine learning.
 - 🤔 I’m looking for help with: Exploring microservices architecture and CI/CD tooling.
-⚡ Fun fact: I enjoy photography and have a collection of digital vintage cameras
+- ⚡ Fun fact: I enjoy photography and have a collection of digital vintage cameras
 
 ### Connect with me:
 
